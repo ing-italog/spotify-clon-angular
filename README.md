@@ -1,4 +1,4 @@
-npm Install for install NODE_MODULES
+into de terminal proyect execute `npm Install` for install NODE_MODULES
 
 # Spotify
 

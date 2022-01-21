@@ -2,6 +2,10 @@
 
 into de terminal proyect execute `npm Install` for install NODE_MODULES
 
+# API
+
+ The api is in this repository `https://github.com/ing-italog/spotify-clon-api`, read the document README.md
+
 # Spotify
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
